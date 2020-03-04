@@ -1,15 +1,15 @@
-/*let name = null;
+let name = null;
 console.log(name);
 let pakhi;
 console.log(pakhi);*/
 
 
-/*function add(num1, num2){
+function add(num1, num2){
     console.log(num1 + num2);
     return
 }
 const result = add(13, 15);
-console.log(result);*/
+console.log(result);
 
 function add (num1, num2){
    console.log(num1 + num2);
